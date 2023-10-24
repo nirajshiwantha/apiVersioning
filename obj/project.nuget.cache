@@ -1,0 +1,21 @@
+{
+  "version": 2,
+  "dgSpecHash": "hzEmmGZhfO2pMKJsq8Gf0p+jbwQxcFfI6Yaarur6XBQLix9GM7CpQqBbv6ZJvoNGra+qRox4I5x/x0tUvUmjJw==",
+  "success": true,
+  "projectFilePath": "D:\\MISC\\ByteByCode\\WebApps\\VersioningDemo\\VersioningDemo.API\\apiVersioning\\VersioningDemo.API.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\NirajRanasinghe\\.nuget\\packages\\asp.versioning.abstractions\\7.0.0\\asp.versioning.abstractions.7.0.0.nupkg.sha512",
+    "C:\\Users\\NirajRanasinghe\\.nuget\\packages\\asp.versioning.http\\7.1.0\\asp.versioning.http.7.1.0.nupkg.sha512",
+    "C:\\Users\\NirajRanasinghe\\.nuget\\packages\\asp.versioning.mvc\\7.1.0\\asp.versioning.mvc.7.1.0.nupkg.sha512",
+    "C:\\Users\\NirajRanasinghe\\.nuget\\packages\\asp.versioning.mvc.apiexplorer\\7.1.0\\asp.versioning.mvc.apiexplorer.7.1.0.nupkg.sha512",
+    "C:\\Users\\NirajRanasinghe\\.nuget\\packages\\microsoft.aspnetcore.openapi\\7.0.12\\microsoft.aspnetcore.openapi.7.0.12.nupkg.sha512",
+    "C:\\Users\\NirajRanasinghe\\.nuget\\packages\\microsoft.extensions.apidescription.server\\6.0.5\\microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",
+    "C:\\Users\\NirajRanasinghe\\.nuget\\packages\\microsoft.extensions.primitives\\7.0.0\\microsoft.extensions.primitives.7.0.0.nupkg.sha512",
+    "C:\\Users\\NirajRanasinghe\\.nuget\\packages\\microsoft.openapi\\1.4.3\\microsoft.openapi.1.4.3.nupkg.sha512",
+    "C:\\Users\\NirajRanasinghe\\.nuget\\packages\\swashbuckle.aspnetcore\\6.5.0\\swashbuckle.aspnetcore.6.5.0.nupkg.sha512",
+    "C:\\Users\\NirajRanasinghe\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.5.0\\swashbuckle.aspnetcore.swagger.6.5.0.nupkg.sha512",
+    "C:\\Users\\NirajRanasinghe\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.5.0\\swashbuckle.aspnetcore.swaggergen.6.5.0.nupkg.sha512",
+    "C:\\Users\\NirajRanasinghe\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\6.5.0\\swashbuckle.aspnetcore.swaggerui.6.5.0.nupkg.sha512"
+  ],
+  "logs": []
+}
